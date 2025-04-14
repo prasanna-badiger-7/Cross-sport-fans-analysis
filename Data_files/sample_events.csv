@@ -1,0 +1,501 @@
+event_id,event_name,sport_category,league,event_date
+1,Champions League: Emilytown vs Port Danielle,Football,Champions League,23-04-2024
+2,Serie A: Millerside vs Johnfort,Football,Serie A,12-06-2024
+3,Bundesliga: Petersonside vs Underwoodside,Football,Bundesliga,20-05-2024
+4,Bundesliga: Gonzalezmouth vs East Cindyside,Football,Bundesliga,09-02-2024
+5,Serie A: New Nicole vs Michelletown,Football,Serie A,25-04-2024
+6,Serie A: North Sandyfurt vs Jackland,Football,Serie A,22-01-2024
+7,Serie A: Duranshire vs Galvanstad,Football,Serie A,14-02-2024
+8,Serie A: Ortizberg vs Amyport,Football,Serie A,10-05-2024
+9,Serie A: Michaelchester vs Vegastad,Football,Serie A,17-05-2024
+10,Serie A: Jasmineberg vs Port Gabriella,Football,Serie A,31-05-2024
+11,Champions League: Hillmouth vs Port Mary,Football,Champions League,24-03-2024
+12,Premier League: Wongfort vs Charlesmouth,Football,Premier League,24-02-2024
+13,Bundesliga: Christopherstad vs Port Dianamouth,Football,Bundesliga,21-06-2024
+14,Premier League: Johnsonberg vs West Toni,Football,Premier League,20-06-2024
+15,Champions League: Lake Andrew vs North Gene,Football,Champions League,24-05-2024
+16,La Liga: East Adamborough vs Justinmouth,Football,La Liga,09-03-2024
+17,Premier League: Suttonfurt vs Lake Amyburgh,Football,Premier League,17-04-2024
+18,La Liga: East Gail vs Smithmouth,Football,La Liga,08-06-2024
+19,Champions League: West Gail vs West Erinside,Football,Champions League,21-02-2024
+20,Bundesliga: Stephenhaven vs Francisfort,Football,Bundesliga,04-05-2024
+21,La Liga: Lake Dianehaven vs East Michael,Football,La Liga,15-05-2024
+22,Champions League: Yoderview vs Sanfordchester,Football,Champions League,23-06-2024
+23,Serie A: Mullenmouth vs Thomasview,Football,Serie A,26-01-2024
+24,Bundesliga: West Timborough vs Michaelburgh,Football,Bundesliga,07-06-2024
+25,Serie A: Tylerville vs Aarontown,Football,Serie A,25-01-2024
+26,Bundesliga: Wareshire vs Keithbury,Football,Bundesliga,06-05-2024
+27,Bundesliga: West Jenniferfurt vs Paulburgh,Football,Bundesliga,05-03-2024
+28,Premier League: New Diane vs Marcuschester,Football,Premier League,13-05-2024
+29,Bundesliga: Johnville vs Port Eric,Football,Bundesliga,15-06-2024
+30,Premier League: North Stevenmouth vs Frenchville,Football,Premier League,14-06-2024
+31,La Liga: Taylorberg vs East Richardburgh,Football,La Liga,19-03-2024
+32,Bundesliga: Martinborough vs East Allison,Football,Bundesliga,28-03-2024
+33,La Liga: Brianchester vs Sarahville,Football,La Liga,28-02-2024
+34,Bundesliga: Jeremyburgh vs Jasonburgh,Football,Bundesliga,20-03-2024
+35,Premier League: Rossfurt vs New William,Football,Premier League,18-03-2024
+36,Serie A: New Melissa vs Brittanyfort,Football,Serie A,14-03-2024
+37,Bundesliga: Michaelbury vs North Lanceside,Football,Bundesliga,09-05-2024
+38,Champions League: Johnborough vs East Deannamouth,Football,Champions League,06-02-2024
+39,Serie A: Smithshire vs Brookechester,Football,Serie A,16-01-2024
+40,Premier League: Bethmouth vs North Vanessa,Football,Premier League,17-06-2024
+41,Champions League: Laurenbury vs Schroedermouth,Football,Champions League,05-03-2024
+42,La Liga: West Stephaniemouth vs Matthewport,Football,La Liga,26-04-2024
+43,Premier League: East Jennifer vs Tylerfort,Football,Premier League,26-06-2024
+44,Serie A: Port Michaelland vs Nancyside,Football,Serie A,23-02-2024
+45,La Liga: Port Paula vs North Wendyview,Football,La Liga,20-06-2024
+46,La Liga: South Thomas vs Thompsonberg,Football,La Liga,22-06-2024
+47,Premier League: Gardnerhaven vs East Justinview,Football,Premier League,30-04-2024
+48,Serie A: Lake David vs Romerobury,Football,Serie A,13-03-2024
+49,Premier League: North Jamesbury vs Millerport,Football,Premier League,18-06-2024
+50,Champions League: Lake Marcus vs Robertsport,Football,Champions League,22-02-2024
+51,Champions League: Lake Jessica vs New Philliphaven,Football,Champions League,22-06-2024
+52,Bundesliga: North Kristin vs Ericton,Football,Bundesliga,21-06-2024
+53,La Liga: Jasonborough vs West Kelly,Football,La Liga,08-05-2024
+54,Bundesliga: Kylefurt vs Middletonberg,Football,Bundesliga,25-06-2024
+55,Serie A: Kristinville vs Lake Benjaminland,Football,Serie A,27-03-2024
+56,Champions League: North Johnview vs Waltermouth,Football,Champions League,28-03-2024
+57,Bundesliga: East Stacey vs Tinaland,Football,Bundesliga,05-05-2024
+58,Champions League: Port Stephanieton vs East Patrickland,Football,Champions League,17-05-2024
+59,Champions League: West Robert vs South Juan,Football,Champions League,02-02-2024
+60,Champions League: East Erikafurt vs South Bonniefort,Football,Champions League,16-05-2024
+61,Premier League: South Selena vs Scotttown,Football,Premier League,24-04-2024
+62,Bundesliga: Port Johnton vs South Calebmouth,Football,Bundesliga,04-02-2024
+63,La Liga: New Stevenmouth vs Royhaven,Football,La Liga,07-02-2024
+64,Bundesliga: West Edwardchester vs Port Kennethton,Football,Bundesliga,22-06-2024
+65,La Liga: Carlfurt vs Fernandezton,Football,La Liga,01-06-2024
+66,Bundesliga: East Robert vs Kyleview,Football,Bundesliga,20-01-2024
+67,Bundesliga: Garciamouth vs North Catherine,Football,Bundesliga,05-03-2024
+68,Champions League: South John vs Dawnborough,Football,Champions League,05-05-2024
+69,La Liga: Amyview vs North Mary,Football,La Liga,09-04-2024
+70,La Liga: Port Linda vs Jennifershire,Football,La Liga,23-04-2024
+71,La Liga: Knightton vs Lake Stephanie,Football,La Liga,05-05-2024
+72,Bundesliga: Tranbury vs Lanceton,Football,Bundesliga,03-06-2024
+73,La Liga: South Mary vs New Tracy,Football,La Liga,04-03-2024
+74,Bundesliga: Jacksontown vs Joshuaport,Football,Bundesliga,21-04-2024
+75,Premier League: North Savannahburgh vs New Heathershire,Football,Premier League,02-05-2024
+76,Champions League: Port Steven vs Kimberlyshire,Football,Champions League,06-06-2024
+77,Serie A: South David vs South Meghanport,Football,Serie A,14-02-2024
+78,Premier League: Longborough vs Lake Davidmouth,Football,Premier League,12-05-2024
+79,La Liga: West Gloria vs Andrewborough,Football,La Liga,16-03-2024
+80,Champions League: Collinsfurt vs South Williamport,Football,Champions League,17-04-2024
+81,Champions League: Amandaport vs Yorkfurt,Football,Champions League,28-04-2024
+82,Champions League: Port Jamestown vs Port Jesus,Football,Champions League,08-06-2024
+83,Champions League: East Sarahberg vs Port Benjaminside,Football,Champions League,26-01-2024
+84,La Liga: Sanchezshire vs Karaside,Football,La Liga,25-06-2024
+85,Champions League: Port Elizabethshire vs New Nicholasville,Football,Champions League,14-05-2024
+86,Serie A: Nicholasland vs West Jennifer,Football,Serie A,21-01-2024
+87,Serie A: Nguyenview vs Richardsonview,Football,Serie A,03-04-2024
+88,Champions League: West Richardbury vs Port Elizabeth,Football,Champions League,11-02-2024
+89,Bundesliga: Calebbury vs West Elizabethport,Football,Bundesliga,21-02-2024
+90,La Liga: Elliston vs South Davidshire,Football,La Liga,04-06-2024
+91,Serie A: Michellemouth vs Bobbyland,Football,Serie A,15-02-2024
+92,Serie A: Richardchester vs East Gregory,Football,Serie A,18-03-2024
+93,Serie A: New Deanna vs New Shawnstad,Football,Serie A,12-01-2024
+94,Premier League: Laurenstad vs Tammieshire,Football,Premier League,23-03-2024
+95,Premier League: North Tiffany vs Lake Glenhaven,Football,Premier League,19-01-2024
+96,Serie A: Lisamouth vs Meyerfurt,Football,Serie A,15-04-2024
+97,Bundesliga: Stephenside vs East Patricia,Football,Bundesliga,17-03-2024
+98,La Liga: Josephview vs New David,Football,La Liga,23-05-2024
+99,La Liga: Jamesfurt vs Michaelfort,Football,La Liga,09-05-2024
+100,Serie A: Simpsonshire vs Carriebury,Football,Serie A,06-06-2024
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
